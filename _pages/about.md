@@ -148,9 +148,9 @@ My research focuses on **Large Language Models (LLMs)**, particularly Retrieval-
   </div>
 </div>
 
-<span class='anchor' id='experience'></span>
+<span class='anchor' id='internships'></span>
 
-# 💼 Professional Experience
+# 💻 Internships
 
 <div class="experience-box">
   <div class="experience-box-logo">
