@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Professor [Chen Jason Zhang](https://zhangchen.info/) and Professor [Xiaoyong Wei](https://www.polyu.edu.hk/comp/people/academic-staff/prof-wei-xiaoyong/). Before joining PolyU, I received my M.Eng. degree from [Sun Yat-Sen University](https://www.sysu.edu.cn/) and my B.Eng. degree from [Shandong University](https://www.sdu.edu.cn/).
+I am a third-year Ph.D. candidate in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Professor [Chen Jason Zhang](https://zhangchen.info/) and Professor [Xiaoyong Wei](https://www.polyu.edu.hk/comp/people/academic-staff/prof-wei-xiaoyong/). Before joining PolyU, I received my M.S. degree from [Sun Yat-Sen University](https://www.sysu.edu.cn/) under the supervision of Professor [Jian Yin](https://sai.sysu.edu.cn/teacher/225), and my B.Eng. degree from [Shandong University](https://www.sdu.edu.cn/).
 
 My research focuses on **Large Language Models (LLMs)**, particularly Retrieval-Augmented Generation (RAG), multi-agent reasoning, autonomous data agents, and reliable interaction with structured data. My recent work explores mitigating hallucinations in RAG, improving multi-agent debate and mathematical reasoning, building autonomous data agents. 
 
@@ -94,7 +94,7 @@ My research focuses on **Large Language Models (LLMs)**, particularly Retrieval-
   <div class="paper-box-image">
     <div>
       <div class="badge">MIR 2025</div>
-      <img src="/images/papers/personalized-content-synthesis.jpg" alt="Personalized content synthesis taxonomy" loading="lazy" decoding="async">
+      <img src="/images/papers/personalized-content-synthesis.gif" alt="Personalized content synthesis taxonomy" loading="lazy" decoding="async">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
