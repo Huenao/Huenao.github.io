@@ -157,7 +157,7 @@ My research focuses on **Large Language Models (LLMs)**, particularly Retrieval-
     <img src="/images/experience/manycore.png" alt="Manycore Tech Inc. logo" loading="lazy" decoding="async">
   </div>
   <div class="experience-box-text" markdown="1">
-### Manycore Tech Inc.
+### [Manycore Tech Inc.](https://www.manycoretech.com/)
 
 *Algorithm Intern, Hangzhou, China · Jul. 2022 - Mar. 2023*
   </div>
